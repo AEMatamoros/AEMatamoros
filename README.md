@@ -1,14 +1,16 @@
-# Hi 👋 My name is Alexis Matamoros
+<h1 align="center">Hi, Alexis Profile here!</h1>
 
 ## Web Developer
 
-I am a Computer Systems Engineer, my skills are focused on the development of web applications with knowledge of Backend, Frontend technologies and SQL/NOSQL database systems, I also have very good soft skills, such as good communication skills, teamwork, organization, creativity and also easily adapt to any situation or job.
+<h4 align="center">I am a Computer Systems Engineer, my skills are focused on the development of web applications with knowledge of Backend, Frontend technologies and SQL/NOSQL database systems, I also have very good soft skills, such as good communication skills, teamwork, organization, creativity and also easily adapt to any situation or job.
+</h4>
+</div>
 
 - ✉️ You can contact me at [alexismatamoros1996777@gmail.com](mailto:alexismatamoros1996777@gmail.com)
 
 ### Skills
 
-<p align="left">
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -29,11 +31,8 @@ I am a Computer Systems Engineer, my skills are focused on the development of we
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/AEMatamoros" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexis-eduardo-matamoros-mayorquin-3a87411b5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
+<p align="center"> <a href="https://www.github.com/AEMatamoros" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexis-eduardo-matamoros-mayorquin-3a87411b5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<!-- <b>My GitHub Stats</b>
+<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AEMatamoros"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AEMatamoros&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/AEMatamoros"><img src="https://activity-graph.herokuapp.com/graph?username=AEMatamoros&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
