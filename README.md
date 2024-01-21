@@ -1,5 +1,7 @@
 <h1 align="center">Nice to meet you!</h1>
-<img src="https://github.com/AEMatamoros/AEMatamoros/blob/main/assets/bg__hero.gif" alt="Hero BG" style="width:50%; display:block !important; margin:0 auto">
+<div style="width:100%; display:flex; justify-content:center; align-items:center">
+    <img src="https://github.com/AEMatamoros/AEMatamoros/blob/main/assets/bg__hero.gif" alt="Hero BG" style="width:50%;">
+</div>
 
 ## Web Developer
 
