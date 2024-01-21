@@ -1,4 +1,5 @@
-<h1 align="center">Hi, Alexis Profile here!</h1>
+<h1 align="center">Nice to meet you!</h1>
+<img src="https://github.com/AEMatamorosAEMatamoros/blob/master/assets/img/bg__hero.gif" alt="Hero BG" width="120" hight="50">
 
 ## Web Developer
 
